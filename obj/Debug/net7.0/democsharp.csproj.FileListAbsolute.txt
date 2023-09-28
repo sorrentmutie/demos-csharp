@@ -1,0 +1,15 @@
+/Users/salvatore/Documents/work/corsi/democsharp/bin/Debug/net7.0/democsharp
+/Users/salvatore/Documents/work/corsi/democsharp/bin/Debug/net7.0/democsharp.deps.json
+/Users/salvatore/Documents/work/corsi/democsharp/bin/Debug/net7.0/democsharp.runtimeconfig.json
+/Users/salvatore/Documents/work/corsi/democsharp/bin/Debug/net7.0/democsharp.dll
+/Users/salvatore/Documents/work/corsi/democsharp/bin/Debug/net7.0/democsharp.pdb
+/Users/salvatore/Documents/work/corsi/democsharp/obj/Debug/net7.0/democsharp.csproj.AssemblyReference.cache
+/Users/salvatore/Documents/work/corsi/democsharp/obj/Debug/net7.0/democsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salvatore/Documents/work/corsi/democsharp/obj/Debug/net7.0/democsharp.AssemblyInfoInputs.cache
+/Users/salvatore/Documents/work/corsi/democsharp/obj/Debug/net7.0/democsharp.AssemblyInfo.cs
+/Users/salvatore/Documents/work/corsi/democsharp/obj/Debug/net7.0/democsharp.csproj.CoreCompileInputs.cache
+/Users/salvatore/Documents/work/corsi/democsharp/obj/Debug/net7.0/democsharp.dll
+/Users/salvatore/Documents/work/corsi/democsharp/obj/Debug/net7.0/refint/democsharp.dll
+/Users/salvatore/Documents/work/corsi/democsharp/obj/Debug/net7.0/democsharp.pdb
+/Users/salvatore/Documents/work/corsi/democsharp/obj/Debug/net7.0/democsharp.genruntimeconfig.cache
+/Users/salvatore/Documents/work/corsi/democsharp/obj/Debug/net7.0/ref/democsharp.dll
